@@ -1,0 +1,3 @@
+This program helps you to run Google Maps to find a location directly from your start menu without having you to open any browser.
+The program uses third party modules: Pyperclip , WebBrowser (THESE CAN BE DOWNLOADED USING PIP)
+On the Run search box you can either specify the location to find on map or it finds the loaction copied on clipboard (if any)
