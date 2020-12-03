@@ -2,8 +2,8 @@ import openpyxl
 import smtplib
 import sys
 
-my_mail="naruto.ka.burito@gmail.com"
-my_pass="bolo zuban kesari"
+my_mail=" " #enter your email here
+my_pass=" " #enter the pass
 
 workbook=openpyxl.load_workbook("C:\\Users\\aulee\\OneDrive\\Documents\\MyFile.xlsx") #Loading my email container file
 sheet=workbook["Sheet1"]
